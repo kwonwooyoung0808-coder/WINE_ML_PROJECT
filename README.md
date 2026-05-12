@@ -3,6 +3,10 @@
 머신러닝으로 와인 품질을 예측하고, 사용자의 취향에 맞는 와인 스타일을 추천하는 개인 프로젝트입니다.  
 레드 와인과 화이트 와인 데이터를 각각 활용해 모델을 구성했고, `Streamlit` 기반 프론트엔드를 통해 예측 결과를 웹에서 직접 확인할 수 있도록 구현했습니다.
 
+## 배포 주소
+
+- Streamlit 앱: [https://winemlproject.streamlit.app/](https://winemlproject.streamlit.app/)
+
 ## 실행 화면
 
 ![Streamlit 실행 화면](assets/streamlit-home.png)
